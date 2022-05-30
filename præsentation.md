@@ -67,13 +67,14 @@ style: |
   }
 
 ---
-# Intro
-![bg left:25%](https://www.dagens.dk/files/styles/og_image/public/media/2015/51/kat1_0.jpg?itok=W9iEBG4t)
-:D
----
----
+![bg left:33%](https://media.istockphoto.com/photos/project-management-concept-chart-with-keywords-and-icons-the-meeting-picture-id894203302)
 # Project Management
+- Sofus
+- Allan
+- Joachim
+- Casper
 ---
+![bg right:33%](https://miro.medium.com/max/1400/1*qnbRKYQIx96TWcI8ZPfa2g.jpeg)
 # Project Board
 - Senior User
 - Project Executive
@@ -119,7 +120,7 @@ Generelt kvaliteten af oplevelsen af dét produkt der bliver leveret. -->
 ---
 # Jason Statham
 - En som kan finde de rette løsninger til interne problemstillinger når det gælder hardware eller værktøj.
-- Sørger for de rigtige resourcer.
+- Sørger for de rigtige resourcer og kvaliteten af de resourcer.
 <!-- De rigtige resourcer kan være:
 - værktøjer
 - råmaterialer
@@ -167,6 +168,7 @@ Sidder med ansvaret for de lidt mindre ændringer, hvor Project Boardet står fo
 <!-- Denne rolle står for at de korrekte data kommer op til Project Boardet. Dette kan gøres i samhold med Project Manageren og Team Managers.
 Team Managers kan trække i Project Assurance, hvis de har mistanke om at Project Manageren giver de forkerte data til Project Boardet. -->
 ---
+![bg left:33%](https://sm.ign.com/ign_dk/screenshot/r/reef-kober-licensen-til-terminator/reef-kober-licensen-til-terminator_7w4m.jpg)
 # Projekt Terminering
 - Hvis produktet ikke længere er brugbart
 - Hvis suplier ikke kan levere nødvendige dele
@@ -184,15 +186,18 @@ Team Managers kan trække i Project Assurance, hvis de har mistanke om at Projec
 - Hvis produktets værdi ikke længere udvejer prisen
 -->
 ---
+![bg right:33%](https://thumbs.dreamstime.com/b/broken-stone-close-up-top-view-horizontal-photo-broken-stone-close-up-top-view-horizontal-photo-218862972.jpg)
 # Hvilke dokumenter er ”make-or-break” for projektet?
 <!-- Her er der tale om de vigtigste dokumenter, så som Project Initiation og Business Case -->
 ---
+![bg left:33%](https://media.discordapp.net/attachments/904869617888018442/980806650061545502/Screenshot_from_2022-05-30_14-08-44.png?width=374&height=657)
 ### Project initiation documentation
 - Indeholder "approaches" til forskellige dele af PRINCE2
 - Planer og Definering af projektet
 - Business case
 <!-- Dette skal være det første dokument, der forklarer projektet, og hvordan det skal startes. Denne indeholder tilgange til de forskellige dele af PRINCE2, planer samt definition af projektet, og projektets start-business case. -->
 ---
+![bg right:33%](https://ak.picdn.net/offset/photos/57fe53c0ba6f6bfc1a493800/medium/photo.jpg)
 ### Business case
 - Udforming af projektet fra en økonomisk vinkel
 - Finansielle aspekter der gør projektet økonomiske levedygtigt
@@ -200,8 +205,10 @@ Team Managers kan trække i Project Assurance, hvis de har mistanke om at Projec
 Det er et "levende dokument", ligesom projektet er "levende".
 Hvis budgettet ændrer sig, eller der er andre ændringer eller tilføjelser, sættes korresponderende data ind i business casen. -->
 ---
+![bg left:33%](https://m.media-amazon.com/images/M/MV5BMTk2MDU2MzgzNl5BMl5BanBnXkFtZTgwNTY1MzY0MjE@._V1_.jpg)
 # Hvilke faktorer er ”make-or-break” for projektet? 
 ---
+![bg right:33%](https://media.istockphoto.com/photos/start-button-picture-id545464260)
 ### Opstart
 - Hvis man ikke kan præssentere planen for projektet, give plantegning over produktet og give nogle klare beskrivelser af business casen, vil projektet aldrig blive startet op
 <!-- Det er vigtigt at kunne fremvise projektplanen, med klare rolledeligeringer klare beskrivelser af business casen.
@@ -214,20 +221,32 @@ Der skal være lagt et budget, aftalt hvem sidder hvor, og hvem gør hvad. Derud
   - Evt. viden
   - osv -->
 ---
+![bg left:33%](https://www.wikihow.com/images/thumb/e/e9/Improve-Eye-Hand-Coordination-Step-13.jpg/aid1378324-v4-1200px-Improve-Eye-Hand-Coordination-Step-13.jpg)
 ### Koordinering
 - Projektkomitéen vælger om gruppen skal fortsætte ud fra den gældende projektplan og kan lave ændringer i forehold til at holde resourcer og tid under kontrol 
 ---
+![bg right:33%](https://thumbs.dreamstime.com/b/words-story-begins-notepad-close-up-words-story-begins-notepad-close-up-210993596.jpg)
 ### Begyndelse
 - Projektkomitéen vælger en projekt leder og laver en meget grundier projektplan. Dette includere tid, kvalitet, muligheder og profit.
 - Projektet kan gå i gang så snart projektkomitéen giver fuld accept 
 ---
+![bg left:33%](https://s1.gaming-cdn.com/images/products/7467/orig-fallback-v1/control-ultimate-edition-ultimate-edition-pc-spil-steam-europe-cover.jpg)
 ### Kontrollering
-- i denne fase uddeler projektvejlederen arbejded ud i mindre dele som bliver uddeligeret til forskellige teams
-<>
+- I denne fase uddeler projektvejlederen arbejded ud i mindre dele som bliver uddeligeret til forskellige teams
+<!-- Scrum-->
 ---
-- Overvågning af produktlevering
-- Overvågning af fasegrænser
-- Færdiggørelse
+![bg right:33%](https://www.insightssuccess.com/wp-content/uploads/2021/02/2-55.jpg)
+### Overvågning af produktlevering
+- 
 ---
+![bg left:33%](https://cdn.prgloo.com/media/fa81802b752f466593ce67947dba0e63.jpg?width=580&height=870)
+### Overvågning af fasegrænser
+- 
+---
+![bg right:33%](https://f8n-ipfs-production.imgix.net/QmaangUFNxGD6vRjnqzVnL2DaFgx4QX38F2LkxZY8WJqkK/nft.jpg?q=80&auto=format%2Ccompress&cs=srgb&h=640)
+### Færdiggørelse
+- Før projektet afsluttes færdigøre projektlederen det sidste papirarbejde, udleveringer og detaljer
+---
+![bg left:20%](https://media.discordapp.net/attachments/761110319707062287/978913185279139840/johnny-depp-1-2000.webp?width=657&height=657)
 # Hvilke roller har autoriteten til at terminere projektet?
 Project Executive er den ultimativt ansvarlige person for hele projektet med et erhvervsmæssigt mindset. De står for at terminere eller aflsutte projektet.
