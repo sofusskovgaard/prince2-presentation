@@ -72,7 +72,6 @@ style: |
 :D
 ---
 ---
-<!-- transition: cover 1s -->
 # Project Management
 ---
 # Project Board
@@ -205,16 +204,27 @@ Hvis budgettet ændrer sig, eller der er andre ændringer eller tilføjelser, s�
 ---
 ### Opstart
 - Hvis man ikke kan præssentere planen for projektet, give plantegning over produktet og give nogle klare beskrivelser af business casen, vil projektet aldrig blive startet op
-<!--  -->
+<!-- Det er vigtigt at kunne fremvise projektplanen, med klare rolledeligeringer klare beskrivelser af business casen.
+Der skal være lagt et budget, aftalt hvem sidder hvor, og hvem gør hvad. Derudover skal plan og resourcer være på plads med f.eks.:
+- Plantegninger
+- OwO wats dis?!
+- Resourcer
+  - Mennesker
+  - Værktøjer
+  - Evt. viden
+  - osv -->
 ---
-### Kordinering
+### Koordinering
 - Projektkomitéen vælger om gruppen skal fortsætte ud fra den gældende projektplan og kan lave ændringer i forehold til at holde resourcer og tid under kontrol 
 ---
 ### Begyndelse
 - Projektkomitéen vælger en projekt leder og laver en meget grundier projektplan. Dette includere tid, kvalitet, muligheder og profit.
 - Projektet kan gå i gang så snart projektkomitéen giver fuld accept 
 ---
-- Kontrollering
+### Kontrollering
+- i denne fase uddeler projektvejlederen arbejded ud i mindre dele som bliver uddeligeret til forskellige teams
+<>
+---
 - Overvågning af produktlevering
 - Overvågning af fasegrænser
 - Færdiggørelse
