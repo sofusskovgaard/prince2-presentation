@@ -69,7 +69,7 @@ style: |
 ---
 ![bg left:33%](https://media.istockphoto.com/photos/project-management-concept-chart-with-keywords-and-icons-the-meeting-picture-id894203302)
 # Project Management
-- Sjofulous
+- Sofus
 - Allan
 - Joachim
 - Casper
