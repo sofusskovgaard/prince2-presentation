@@ -249,7 +249,7 @@ Egentlig skulle man også sørge for at lave kvalitetschecks "on the go". -->
 ---
 ![bg left:33%](https://cdn.prgloo.com/media/fa81802b752f466593ce67947dba0e63.jpg?width=580&height=870)
 ### Overvågning af fasegrænser
-- Ved afsluningen af hver fase holder projektbestyrelsen (project board) en audit og vurderer om projektet skal fortsætte eller afsluttes
+- Ved afslutningen af hver fase holder projektbestyrelsen (project board) en audit og vurderer om projektet skal fortsætte eller afsluttes
 <!-- Denne audit er baseret på hvad Project Manager og Project Assurance melder til toppen. Tyder dataen på noget godt, fortsætter vi, hvis ikke, kan det vurderes at projektet skal termineres. -->
 ---
 ![bg right:33%](https://f8n-ipfs-production.imgix.net/QmaangUFNxGD6vRjnqzVnL2DaFgx4QX38F2LkxZY8WJqkK/nft.jpg?q=80&auto=format%2Ccompress&cs=srgb&h=640)
