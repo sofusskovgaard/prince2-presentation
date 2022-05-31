@@ -95,7 +95,7 @@ Flere personer kan være under Senior rollerne, men kun én kan være Project Ex
 ---
 # Stevie Wonder
 - Ansvarlig for at slut brugernes behov bliver opfyldt
-- De mange forkellige typer af mennesker Stevie har arbejdet sammen med over en lang periode giver ham de nødvendige kompetencer.
+- De mange forkellige typer af mennesker Stevie har arbejdet sammen med over en lang periode giver ham de nødvendige kompetencer
 <!--  Ansvarlig for at slut brugernes behov bliver opfyldt både i form af funktionalitet og user experience.
 Generelt kvaliteten af oplevelsen af dét produkt der bliver leveret. -->
 ---
@@ -107,8 +107,8 @@ Generelt kvaliteten af oplevelsen af dét produkt der bliver leveret. -->
 - Producer på flere projekter
 ---
 # Jacob "Johnny Depp" Enevoldsen Duus
-- En realistisk person med selv kontrollen og erfaringen til at stoppe når projektet er færdigt.
-- Gennem de mange projekter mr. Depp har været med giver ham indblik på projektstart og drift af projekter.
+- En realistisk person med selvkontrollen og erfaringen til at stoppe når projektet er færdigt
+- Gennem de mange projekter Hr. Depp har været med, giver ham indblik på projektstart og drift af projekter
 <!-- Han har også haft en kone der sked på hans seng. -->
 ---
 # Senior Supplier
@@ -119,12 +119,12 @@ Generelt kvaliteten af oplevelsen af dét produkt der bliver leveret. -->
 - Tidligere medlem af Britanniens nationale svømme trup
 ---
 # Jason Statham
-- En som kan finde de rette løsninger til interne problemstillinger når det gælder hardware eller værktøj.
-- Sørger for de rigtige resourcer og kvaliteten af de resourcer.
+- En som kan finde de rette løsninger til interne problemstillinger, når det gælder hardware eller værktøj
+- Sørger for de rigtige resourcer og kvaliteten af de resourcer
 <!-- De rigtige resourcer kan være:
 - værktøjer
 - råmaterialer
-- mennesker
+- arbejdskraft
 - hardware
 Derudover sørger han også for at førnævnte er af den nødvendige kvalitet. -->
 ---
@@ -136,8 +136,8 @@ Derudover sørger han også for at førnævnte er af den nødvendige kvalitet. -
 - Far til Miley Cyrus
 ---
 # Billy Ray Cyrus
-- Står for den daglige drift/management af projektet på vegne af Project Boardet.
-- Er konstant i dialog med personerne på Project Boardet samt holdet på Project Assurance og Team Managers.
+- Står for den daglige drift/management af projektet på vegne af Project Boardet
+- Er konstant i dialog med personerne på Project Boardet, samt holdet på Project Assurance og Team Managers
 <!-- Sørger for at kommunikere de rigtige data til Project Boardet, nogle gange i samhold med Project Assurance, for at sørge for at dataen er korrekt. -->
 ---
 # Change Authority
@@ -148,8 +148,8 @@ Derudover sørger han også for at førnævnte er af den nødvendige kvalitet. -
 - Tidligere medejer af Sandollar Productions
 ---
 # Dolly Rebecca Parton
-- En der kan håndtere ansvaret for beslutninger og hjælper med at styre flowet af projektet.
-- Med sine erfaringer som medejer af firmaer som holder flere virksomheder kan hun tage ansvaret og beslutninger som kunne forekomme.
+- En der kan håndtere ansvaret for beslutninger og hjælper med at styre flowet af projektet
+- Med sine erfaringer som medejer af firmaer som holder flere virksomheder, kan hun tage ansvaret og beslutninger som kunne forekomme
 <!-- Denne rolle kan også tilegnet Project Manageren, hvis Project Boardet tillader det.
 Sidder med ansvaret for de lidt mindre ændringer, hvor Project Boardet står for de helt store.
 Ændringerne gøres hvis det giver mening og kan gøres indenfor deadline og budget. -->
@@ -162,9 +162,9 @@ Sidder med ansvaret for de lidt mindre ændringer, hvor Project Boardet står fo
 - Assisteret med på flere projekter
 ---
 # Miley Cyrus
-- En person der kan have sin egen holdning og forståelse af den information som kommer længere op i strukturen.
-- Miley Cyrus blev talskvinde for "Daisy Rock Guitars" i 2004.
-- Disney udgav en Hannah Montana-tøjkollektion sidst i sommeren 2007. Miley Cyrus hjalp med at designe tøjet til kollektionen.
+- En person der kan have sin egen holdning og forståelse af den information som kommer længere op i strukturen
+- Miley Cyrus blev talskvinde for "Daisy Rock Guitars" i 2004
+- Disney udgav en Hannah Montana-tøjkollektion sidst i sommeren 2007. Miley Cyrus hjalp med at designe tøjet til kollektionen
 <!-- Denne rolle står for at de korrekte data kommer op til Project Boardet. Dette kan gøres i samhold med Project Manageren og Team Managers.
 Team Managers kan trække i Project Assurance, hvis de har mistanke om at Project Manageren giver de forkerte data til Project Boardet. -->
 ---
@@ -175,6 +175,7 @@ Team Managers kan trække i Project Assurance, hvis de har mistanke om at Projec
 - Hvis firmaet som ønsker produktet går konkurs 
 - Hvis produktets værdi ikke længere udvejer prisen
 <!--
+Projektet kan termineres hvis f.eks...
 - Hvis produktet ikke længere er brugbart, f.eks.:
   - Det har taget for lang tid
   - Budgetet er ikke overholdt
@@ -207,6 +208,7 @@ Hvis budgettet ændrer sig, eller der er andre ændringer eller tilføjelser, s�
 ---
 ![bg left:33%](https://m.media-amazon.com/images/M/MV5BMTk2MDU2MzgzNl5BMl5BanBnXkFtZTgwNTY1MzY0MjE@._V1_.jpg)
 # Hvilke faktorer er ”make-or-break” for projektet? 
+<!-- De 7 principper for et Prince2 projekt -->
 ---
 ![bg right:33%](https://media.istockphoto.com/photos/start-button-picture-id545464260)
 ### Opstart
@@ -224,29 +226,39 @@ Der skal være lagt et budget, aftalt hvem sidder hvor, og hvem gør hvad. Derud
 ![bg left:33%](https://www.wikihow.com/images/thumb/e/e9/Improve-Eye-Hand-Coordination-Step-13.jpg/aid1378324-v4-1200px-Improve-Eye-Hand-Coordination-Step-13.jpg)
 ### Koordinering
 - Projektkomitéen vælger om gruppen skal fortsætte ud fra den gældende projektplan og kan lave ændringer i forehold til at holde resourcer og tid under kontrol 
+<!-- Læs slide. kek -->
 ---
 ![bg right:33%](https://thumbs.dreamstime.com/b/words-story-begins-notepad-close-up-words-story-begins-notepad-close-up-210993596.jpg)
-### Begyndelse
-- Projektkomitéen vælger en projekt leder og laver en meget grundier projektplan. Dette includere tid, kvalitet, muligheder og profit.
-- Projektet kan gå i gang så snart projektkomitéen giver fuld accept 
+### Igangsættelse
+- Projektkomitéen vælger en projekt leder og laver en meget grundig projektplan. Dette inkluderer tid, kvalitet, muligheder og profit
+- Projektet kan gå i gang så snart projektkomitéen giver fuld accept
+<!-- Det er her projektet oprigtigt starter. -->
 ---
 ![bg left:33%](https://s1.gaming-cdn.com/images/products/7467/orig-fallback-v1/control-ultimate-edition-ultimate-edition-pc-spil-steam-europe-cover.jpg)
 ### Kontrollering
-- I denne fase uddeler projektvejlederen arbejded ud i mindre dele som bliver uddeligeret til forskellige teams
-<!-- Scrum-->
+- I denne fase uddeler projektvejlederen arbejdet ud i mindre dele, som bliver uddeligeret til forskellige teams
+<!-- Scrum eller lignende kan bruges til programmørerne.
+Andet kender vi ikke lige umiddelbart til, det må infrastruktur tilføje.
+Men opgaverne bliver uddeligeret så det passe til de forskellige hold, så som netværkfolk får netværksrelaterede opgaver osv. Senior Supplier skal umiddelbart være den der sørger for dette. -->
 ---
 ![bg right:33%](https://www.insightssuccess.com/wp-content/uploads/2021/02/2-55.jpg)
 ### Overvågning af produktlevering
-- 
+- Projekt administratoren laver kvalitets tjek og vælger om der skal arbejdes mere på produktet
+<!-- Dette sker før vi udlevere produktet, og hvor vi laver kvalitetscheck af hvordan produktet er nu, og vurderer om det er ok eller om vi skal arbejde yderigere på det.
+Egentlig skulle man også sørge for at lave kvalitetschecks "on the go". -->
 ---
 ![bg left:33%](https://cdn.prgloo.com/media/fa81802b752f466593ce67947dba0e63.jpg?width=580&height=870)
 ### Overvågning af fasegrænser
-- Ved afsluningen af hver fase holder projektbestyrelsen (project board) en audit og vudere om projektet skal fortsætte eller afsluttes
+- Ved afsluningen af hver fase holder projektbestyrelsen (project board) en audit og vurderer om projektet skal fortsætte eller afsluttes
+<!-- Denne audit er baseret på hvad Project Manager og Project Assurance melder til toppen. Tyder dataen på noget godt, fortsætter vi, hvis ikke, kan det vurderes at projektet skal termineres. -->
 ---
 ![bg right:33%](https://f8n-ipfs-production.imgix.net/QmaangUFNxGD6vRjnqzVnL2DaFgx4QX38F2LkxZY8WJqkK/nft.jpg?q=80&auto=format%2Ccompress&cs=srgb&h=640)
 ### Færdiggørelse
 - Før projektet afsluttes færdigøre projektlederen det sidste papirarbejde, udleveringer og detaljer
+<!-- Dette kan umiddelbart også ske i samhold med overvågning af produktleveringen, hvor der bliver kvalitetschecket osv. -->
 ---
 ![bg left:20%](https://media.discordapp.net/attachments/761110319707062287/978913185279139840/johnny-depp-1-2000.webp?width=657&height=657)
 # Hvilke roller har autoriteten til at terminere projektet?
-Project Executive er den ultimativt ansvarlige person for hele projektet med et erhvervsmæssigt mindset. De står for at terminere eller aflsutte projektet.
+- Project Executive er den ultimativt ansvarlige person for hele projektet med et erhvervsmæssigt mindset. De står for at terminere eller aflsutte projektet
+<!-- Det er Project Executive der er den ultimateive rolle der kan terminere eller vælge at fortsætte projektet.
+Dette gøres dog typisk i sammarbejde med Project Boardet, hvor der kan blive efterspurgt hvordan projektet går. -->
