@@ -241,7 +241,7 @@ Der skal være lagt et budget, aftalt hvem sidder hvor, og hvem gør hvad. Derud
 ---
 ![bg left:33%](https://cdn.prgloo.com/media/fa81802b752f466593ce67947dba0e63.jpg?width=580&height=870)
 ### Overvågning af fasegrænser
-- 
+- Ved afsluningen af hver fase holder projektbestyrelsen (project board) en audit og vudere om projektet skal fortsætte eller afsluttes
 ---
 ![bg right:33%](https://f8n-ipfs-production.imgix.net/QmaangUFNxGD6vRjnqzVnL2DaFgx4QX38F2LkxZY8WJqkK/nft.jpg?q=80&auto=format%2Ccompress&cs=srgb&h=640)
 ### Færdiggørelse
